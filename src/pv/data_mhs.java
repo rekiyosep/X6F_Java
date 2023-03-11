@@ -33,7 +33,8 @@ public class data_mhs {
         JButton bSave = new JButton("Save");
         JButton bAdd = new JButton("Add");
         JButton bCancel = new JButton("Cancel");
-        JButton bExit = new JButton("Exit");
+        JButton bExit = new JButton("Kaluar");
+        
 
         nm.setBounds(30, 10, 100, 40);
         np.setBounds(30, 40, 100, 40);
